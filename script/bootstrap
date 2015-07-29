@@ -1,0 +1,7 @@
+#!/bin/sh
+
+npm install -g gulp
+npm install -g http-server
+npm install
+bower install
+bundle install

@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "authors": [
+    "Bradley Temple <bradley.temple@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
